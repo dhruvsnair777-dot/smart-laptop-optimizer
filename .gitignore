@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+venv*/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Build & Dist
+build/
+dist/
+*.egg-info/
+
+# Local databases & logs
+*.db
+*.log
+
+# macOS
+.DS_Store
+
+# Temporary files
+main.pyp/
